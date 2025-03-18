@@ -67,7 +67,23 @@ To build from source, you only need:
 
 ---
 
-## 🚀 Performance & Testing   
+## ▶️ Running the Application  
+
+To start the application, pass the configuration file path as a command-line argument:  
+
+```
+jaffarexpress <config_file_path>
+```
+
+Example:  
+
+```
+jaffarexpress config.txt
+```
+
+---
+
+## 🚀 Performance & Testing  
 
 This project is **experimental and educational**.  
 If you test or benchmark the performance (e.g., using `iperf` or other tools), I’d love to hear your feedback!  

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="jaffarexpress.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="jaffarexpress"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="22"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uengine.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UEngine"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="49"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uconfig.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UConfig"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="10" Y="86"/>
+        <UsageCount Value="49"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="userver.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UServer"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="46"/>
+        <CursorPos X="12" Y="37"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uhandle.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UHandle"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="42" Y="77"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucrypts.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UCrypts"/>
+        <EditorIndex Value="4"/>
+        <CursorPos Y="89"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uhandlecrypt.pas"/>
+        <UnitName Value="UHandleCrypt"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="97"/>
+        <CursorPos X="5" Y="127"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uxorsimple.pas"/>
+        <UnitName Value="UXORSimple"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="79"/>
+        <CursorPos X="5" Y="109"/>
+        <UsageCount Value="22"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\library\synapse\blcksock.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="878"/>
+        <CursorPos X="3" Y="893"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\library\synapse\sswin32.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="298"/>
+        <CursorPos X="36" Y="311"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win64\system.pp"/>
+        <UnitName Value="System"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="125"/>
+        <CursorPos X="10" Y="122"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="28">
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="16" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="userver.pas"/>
+        <Caret Line="23" Column="34" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="31" Column="21" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="25" Column="34" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="49" Column="21" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="51" Column="20" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="82" Column="30" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="userver.pas"/>
+        <Caret Line="57" Column="11" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="20" Column="2" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="48" Column="7" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="44" Column="9" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="45" Column="8" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="56" Column="11" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="68" Column="18" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="75" Column="10" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="userver.pas"/>
+        <Caret Line="34" Column="9" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="userver.pas"/>
+        <Caret Line="49" Column="22" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="userver.pas"/>
+        <Caret Line="39" Column="9" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="71" Column="20" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="userver.pas"/>
+        <Caret Line="54" Column="27" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="userver.pas"/>
+        <Caret Line="58" Column="36" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="41" Column="9" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="userver.pas"/>
+        <Caret Line="60" Column="40" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="uhandle.pas"/>
+        <Caret Line="61" Column="64" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="uconfig.pas"/>
+        <Caret Line="74" Column="37" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="userver.pas"/>
+        <Caret Line="61" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="uconfig.pas"/>
+        <Caret Line="103" Column="103" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ucrypts.pas"/>
+        <Caret Line="21" Column="15" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ucrypts.pas"/>
+        <Caret Line="23" Column="78" TopLine="13"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

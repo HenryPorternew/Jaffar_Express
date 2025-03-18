@@ -53,7 +53,21 @@ client-udp-127.0.0.1:2048-1.1.1.1:42500-xor2-a2V5X2luX2Jhc2U2NF9lbmNvZGVk
 
 ---
 
-## 🚀 Performance & Testing  
+## 🛠️ Compilation & Installation  
+
+### Precompiled Binaries  
+
+Compiled binaries are available for **Windows** and **Linux (AMD64)**.  
+
+### Building from Source  
+
+To build from source, you only need:  
+- [Lazarus](https://www.lazarus-ide.org/)  
+- [Synapse Library](https://sourceforge.net/projects/synalist/) (must be in the project path)  
+
+---
+
+## 🚀 Performance & Testing   
 
 This project is **experimental and educational**.  
 If you test or benchmark the performance (e.g., using `iperf` or other tools), I’d love to hear your feedback!  
